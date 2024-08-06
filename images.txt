@@ -6,3 +6,4 @@ alpine:latest
 busybox:latest
 docker:dind
 docker:stable
+docker.io/library/openjdk:11-jdk
