@@ -2,6 +2,6 @@ duke1616/ecmdb-web:latest
 duke1616/ecmdb:latest
 duke1616/ework-runner:latest
 bitnami/kafka:3.6.1-debian-12-r13
-bitnami/kafka-ui:latest
+provectuslabs/kafka-ui:latest
 mongo:7.0.8-jammy
 redis:7.2.4
