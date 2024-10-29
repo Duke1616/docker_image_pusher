@@ -6,3 +6,4 @@ bitnami/kafka:3.6.1-debian-12-r13
 provectuslabs/kafka-ui:latest
 mongo:7.0.8-jammy
 redis:7.2.4
+
