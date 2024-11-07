@@ -1,6 +1,6 @@
 duke1616/ework-runner:latest
 dreamacro/clash:latest
-haishanh/yade:latest
+haishanh/yacd:latest
 # duke1616/ecmdb-web:latest
 # duke1616/ecmdb:latest
 # bitnami/mongodb:7.0.12
