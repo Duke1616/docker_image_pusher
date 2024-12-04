@@ -1,4 +1,5 @@
 duke1616/ework-runner:latest
+bitnami/minio:2024.11.7
 dreamacro/clash:latest
 minio/minio:RELEASE.2024-11-07T00-52-20Z
 # duke1616/ecmdb-web:latest
