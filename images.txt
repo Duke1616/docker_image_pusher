@@ -9,3 +9,4 @@ minio/minio:RELEASE.2024-11-07T00-52-20Z
 # mongo:7.0.8-jammy
 # redis:7.2.4
 # redis/redis-stack:7.2.0-v13-x86_64
+
