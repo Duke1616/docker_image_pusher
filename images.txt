@@ -1,6 +1,6 @@
 duke1616/ework-runner:latest
 dreamacro/clash:latest
-haishanh/yacd:latest
+minio/minio:RELEASE.2024-11-07T00-52-20Z
 # duke1616/ecmdb-web:latest
 # duke1616/ecmdb:latest
 # bitnami/mongodb:7.0.12
