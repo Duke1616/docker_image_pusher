@@ -1,5 +1,5 @@
 duke1616/ework-runner:latest
-percona/percona-server-mongodb:6.0.19
+percona/percona-server-mongodb:7.0.15
 bitnami/minio:2024.11.7
 dreamacro/clash:latest
 minio/minio:RELEASE.2024-11-07T00-52-20Z
