@@ -1,5 +1,6 @@
 duke1616/ework-runner:latest
 guacamole/guacamole:1.5.5
+guacamole/guacd:1.5.5
 percona/percona-server-mongodb:7.0.15
 bitnami/minio:2024.11.7
 dreamacro/clash:latest
