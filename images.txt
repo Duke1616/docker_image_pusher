@@ -1,4 +1,5 @@
 duke1616/ework-runner:latest
+debian:bookworm
 ubuntu:22.04
 linuxserver/openssh-server:version-9.7_p1-r4
 guacamole/guacamole:1.5.5
