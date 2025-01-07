@@ -2,6 +2,7 @@ duke1616/ework-runner:latest
 bitnami/openldap:2.6.9
 dnknth/ldap-ui:0.9.12-x86_64
 kafbat/kafka-ui:latest
+kafbat/kafka-ui:main
 curlimages/curl:8.11.1
 debian:bookworm
 ubuntu:22.04
