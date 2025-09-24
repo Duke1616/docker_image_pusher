@@ -1,17 +1,18 @@
-duke1616/ework-runner:latest
-bitnami/openldap:2.6.9
-dnknth/ldap-ui:0.9.12-x86_64
-provectuslabs/kafka-ui:v0.7.2
-curlimages/curl:8.11.1
-debian:bookworm
-ubuntu:22.04
-linuxserver/openssh-server:version-9.7_p1-r4
-guacamole/guacamole:1.5.5
-guacamole/guacd:1.5.5
-percona/percona-server-mongodb:7.0.15
-bitnami/minio:2024.11.7
-dreamacro/clash:latest
-minio/minio:RELEASE.2024-11-07T00-52-20Z
+golang:1.24.1-alpine
+# duke1616/ework-runner:latest
+# bitnami/openldap:2.6.9
+# dnknth/ldap-ui:0.9.12-x86_64
+# provectuslabs/kafka-ui:v0.7.2
+# curlimages/curl:8.11.1
+# debian:bookworm
+# ubuntu:22.04
+# linuxserver/openssh-server:version-9.7_p1-r4
+# guacamole/guacamole:1.5.5
+# guacamole/guacd:1.5.5
+# percona/percona-server-mongodb:7.0.15
+# bitnami/minio:2024.11.7
+# dreamacro/clash:latest
+# minio/minio:RELEASE.2024-11-07T00-52-20Z
 # duke1616/ecmdb-web:latest
 # duke1616/ecmdb:latest
 # bitnami/mongodb:7.0.12
