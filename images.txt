@@ -1,4 +1,5 @@
 golang:1.24.1-alpine
+elasticsearch:9.2.0
 # duke1616/ework-runner:latest
 # bitnami/openldap:2.6.9
 # dnknth/ldap-ui:0.9.12-x86_64
