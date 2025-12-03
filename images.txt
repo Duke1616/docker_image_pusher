@@ -1,4 +1,5 @@
 golang:1.24.1-alpine
+golang:1.25.5-alpine
 elasticsearch:9.2.0
 # duke1616/ework-runner:latest
 # bitnami/openldap:2.6.9
