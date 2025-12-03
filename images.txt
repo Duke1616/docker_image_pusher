@@ -1,3 +1,4 @@
+golang:1.25.5-nanoserver
 golang:1.24.1-alpine
 golang:1.25.5-alpine
 elasticsearch:9.2.0
