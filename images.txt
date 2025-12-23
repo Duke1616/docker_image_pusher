@@ -1,3 +1,4 @@
+mongo:4.4.29
 kafbat/kafka-ui:v1.4.2
 debian:bookworm-slim
 golang:1.25.5-bookworm
