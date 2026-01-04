@@ -1,4 +1,5 @@
-mongo:6.0.27
+mongo:4.4.30
+# mongo:6.0.27
 # mongo:7.0.28
 # mongo:4.4.29
 # kafbat/kafka-ui:v1.4.2
