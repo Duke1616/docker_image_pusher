@@ -1,5 +1,6 @@
-victoriametrics/victoria-metrics:v1.133.0
-prom/node-exporter:v1.10.2
+grafana/grafana:12.3.1-ubuntu
+# victoriametrics/victoria-metrics:v1.133.0
+# prom/node-exporter:v1.10.2
 # mongo:4.4.30
 # mongo:6.0.27
 # mongo:7.0.28
