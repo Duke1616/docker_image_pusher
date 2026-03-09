@@ -1,4 +1,5 @@
-grafana/grafana:12.3.1-ubuntu
+node:24.14.0-alpine
+# grafana/grafana:12.3.1-ubuntu
 # victoriametrics/victoria-metrics:v1.133.0
 # prom/node-exporter:v1.10.2
 # mongo:4.4.30
