@@ -1,4 +1,6 @@
-gitlab/gitlab-runner:v18.9.0
+victoriametrics/vmagent:v1.133.0
+nvcr.io/nvidia/k8s/dcgm-exporter:4.4.2-4.7.1-ubuntu22.04
+# gitlab/gitlab-runner:v18.9.0
 # node:24.14.0-alpine
 # grafana/grafana:12.3.1-ubuntu
 # victoriametrics/victoria-metrics:v1.133.0
