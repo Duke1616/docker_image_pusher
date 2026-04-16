@@ -1,5 +1,18 @@
-grafana/alloy:v1.15.1
-grafana/loki:3.6.10
+wechatopenai/weknora-ui:latest
+wechatopenai/weknora-app:latest
+wechatopenai/weknora-sandbox:latest
+wechatopenai/weknora-docreader:latest
+paradedb/paradedb:v0.22.2-pg17
+redis:7.0-alpine
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+jaegertracing/all-in-one:1.76.0
+neo4j:2025.10.1
+qdrant/qdrant:v1.16.2
+milvusdb/milvus:v2.6.11
+semitechnologies/weaviate:1.28.4
+dexidp/dex:latest
+# grafana/alloy:v1.15.1
+# grafana/loki:3.6.10
 # melvinodsa/go-iam-ui:latest
 # melvinodsa/go-iam:latest
 # grafana/grafana:12.3.5-ubuntu
