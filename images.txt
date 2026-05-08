@@ -1,4 +1,6 @@
-python:3.13.13-bookworm
+heartexlabs/label-studio:latest
+pgautoupgrade/pgautoupgrade:17-alpine
+# python:3.13.13-bookworm
 # wechatopenai/weknora-ui:latest
 # wechatopenai/weknora-app:latest
 # wechatopenai/weknora-sandbox:latest
