@@ -1,5 +1,6 @@
-heartexlabs/label-studio:latest
-pgautoupgrade/pgautoupgrade:17-alpine
+docker:29.5.0-cli
+# heartexlabs/label-studio:latest
+# pgautoupgrade/pgautoupgrade:17-alpine
 # python:3.13.13-bookworm
 # wechatopenai/weknora-ui:latest
 # wechatopenai/weknora-app:latest
