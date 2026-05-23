@@ -1,4 +1,5 @@
-docker:29.5.0-cli
+golang:1.26.3-alpine
+# docker:29.5.0-cli
 # heartexlabs/label-studio:latest
 # pgautoupgrade/pgautoupgrade:17-alpine
 # python:3.13.13-bookworm
