@@ -1,5 +1,6 @@
-snowdreamtech/frpc:0.70.1-debian
-snowdreamtech/frps:0.70.1-debian
+clamav/clamav:1.4.6-debian
+# snowdreamtech/frpc:0.70.1-debian
+# snowdreamtech/frps:0.70.1-debian
 # mysql:8.0.46
 # percona/percona-server-mongodb:7.0.15-9-arm64
 # golang:1.26.3-alpine
