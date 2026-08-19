@@ -1,4 +1,5 @@
-clamav/clamav:1.4.6-debian
+uroni/urbackup-server:2.5.x
+# clamav/clamav:1.4.6-debian
 # snowdreamtech/frpc:0.70.1-debian
 # snowdreamtech/frps:0.70.1-debian
 # mysql:8.0.46
