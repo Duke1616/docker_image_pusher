@@ -1,4 +1,5 @@
-ghcr.io/google/cadvisor:v0.60.5
+ghcr.io/openhands/agent-canvas:1.16.0 
+# ghcr.io/google/cadvisor:v0.60.5
 # nginx:1.30.4
 # uroni/urbackup-server:2.5.x
 # clamav/clamav:1.4.6-debian
