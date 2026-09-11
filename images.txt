@@ -1,5 +1,6 @@
 # redroid/redroid:16.0.0-latest --platform=linux/arm64
-wuli07101/redroid:12.0.0_magisk
+# wuli07101/redroid:12.0.0_magisk
+erstt/redroid:12.0.0_ndk_magisk_litegapps_ChromeOS
 # redroid/redroid:12.0.0-latest
 # budtmo/docker-android:emulator_14.0
 # daitcl/mihomo:v1.19.30
