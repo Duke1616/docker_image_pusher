@@ -1,5 +1,6 @@
 # redroid/redroid:16.0.0-latest --platform=linux/arm64
-redroid/redroid:12.0.0-latest
+wuli07101/redroid:12.0.0_magisk
+# redroid/redroid:12.0.0-latest
 # budtmo/docker-android:emulator_14.0
 # daitcl/mihomo:v1.19.30
 # ghcr.io/openhands/agent-canvas:1.16.0 
