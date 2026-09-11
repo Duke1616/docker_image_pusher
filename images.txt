@@ -1,4 +1,4 @@
-budtmo/docker-android:emulator_13.0
+budtmo/docker-android:emulator_14.0
 # daitcl/mihomo:v1.19.30
 # ghcr.io/openhands/agent-canvas:1.16.0 
 # ghcr.io/google/cadvisor:v0.60.5
