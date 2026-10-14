@@ -1,4 +1,5 @@
-grafana/grafana:8.5.4
+rocker/tidyverse:4.6.1
+# grafana/grafana:8.5.4
 # vllm/vllm-openai:v0.13.0
 # vllm/vllm-openai:v0.30.0
 # node:22.18.0-bookworm
