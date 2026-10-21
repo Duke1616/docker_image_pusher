@@ -1,4 +1,5 @@
-polinux/stress-ng
+alpine:3.24.2
+# polinux/stress-ng
 # nvidia/cuda:12.8.0-runtime-ubuntu22.04
 # node:20-alpine
 # rocker/tidyverse:4.6.1
