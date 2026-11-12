@@ -1,4 +1,4 @@
-nvidia/cuda:13.0.2-cudnn9-runtime-ubuntu22.04
+nvidia/cuda:13.0.2-cudnn-runtime-ubuntu24.04
 # ghcr.io/zenghongtu/paseo-relay:latest
 # alpine:3.24.2
 # polinux/stress-ng
