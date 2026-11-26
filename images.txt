@@ -1,4 +1,5 @@
-tailscale/tailscale:stable
+netdata/netdata:stable
+# tailscale/tailscale:stable
 # ghcr.io/tale/headplane:latest
 # headscale/headscale:stable
 # ghcr.io/gurucomputing/headscale-ui:latest
