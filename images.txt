@@ -1,6 +1,7 @@
-headscale/headscale:stable
-ghcr.io/gurucomputing/headscale-ui:latest
-mysql:8.4.13.1
+ghcr.io/tale/headplane:latest
+# headscale/headscale:stable
+# ghcr.io/gurucomputing/headscale-ui:latest
+# mysql:8.4.13.1
 # mysql:8.4.11
 # ghcr.io/wg-easy/wg-easy:15.5.0
 # nvidia/cuda:13.0.2-cudnn-runtime-ubuntu24.04
