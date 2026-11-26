@@ -1,4 +1,5 @@
-ghcr.io/tale/headplane:latest
+tailscale/tailscale:stable
+# ghcr.io/tale/headplane:latest
 # headscale/headscale:stable
 # ghcr.io/gurucomputing/headscale-ui:latest
 # mysql:8.4.13.1
