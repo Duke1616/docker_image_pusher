@@ -1,4 +1,6 @@
-ghcr.io/guomonth/dsh-isolated-runtime:latest
+golang:1.27.4-bookworm
+node:24-bookworm-slim
+# ghcr.io/guomonth/dsh-isolated-runtime:latest
 # postgres:17.12-alpine3.24
 # netdata/netdata:stable
 # tailscale/tailscale:stable
