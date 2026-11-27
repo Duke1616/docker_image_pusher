@@ -1,4 +1,4 @@
-ghcr.io/guomonth/dsh-isolated-runtime@sha256:591b6a9f214dc7e3480d006a770f65dc13cc97efff71a4a995c5c4a947b0822b
+ghcr.io/guomonth/dsh-isolated-runtime:latest
 # postgres:17.12-alpine3.24
 # netdata/netdata:stable
 # tailscale/tailscale:stable
